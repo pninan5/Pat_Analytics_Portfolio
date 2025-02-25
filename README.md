@@ -1,5 +1,5 @@
 # Patrick Gervadis Ninan
-Graduate Student in **Business Analytics and Artificial Intelligence** | B.tech **Computer Science and Engineering*
+Graduate Student in **Business Analytics and Artificial Intelligence** | B.tech *Computer Science and Engineering*
 
 ## About Me
 Hey there! I’m **Patrick Gervadis Ninan**, a graduate student diving deep into the world of **Business Analytics** and **Artificial Intelligence** at **The University of Texas at Dallas**. With a strong background in **Computer Science and Engineering**, I’m all about using data to solve real-world problems and create impactful solutions. From **predicting customer churn** to **optimizing marketing strategies**, I love seeing how data can drive smarter decisions. 🧠💡
