@@ -1,5 +1,5 @@
 # Patrick Gervadis Ninan  
-**Data Scientist | Business Analyst | Machine Learning Enthusiast**  
+**Data Scientist | Business Analyst | Data Analyst | Machine Learning Enthusiast**  
 M.S. in Business Analytics and Artificial Intelligence | B.Tech in Computer Science
 
 ---
